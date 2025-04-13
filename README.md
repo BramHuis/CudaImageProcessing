@@ -8,4 +8,5 @@ The following filters are available: sepia, hblur (horizontal blur), vblur (vert
 To run the sepia filter on a png, run the following command:
 
 ImageProcessing.exe sepia someImage.png
+
 Where ImageProcessing.exe is the compiled code, sepia is the filter name and someImage.png is the path to png file. The processed image will appear in the directory the command is run from.
